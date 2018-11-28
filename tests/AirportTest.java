@@ -15,7 +15,14 @@ public class AirportTest {
     @Test
     public void checkArrayStartsEmpty() {
         Airport x = new Airport();
-        assertEquals(0, x.printPlanesArray());
+        assertEquals(0, x.printPlanesArray(0));
+    }
+
+    @Test
+    public void pushingAPlaneToTheArray() {
+        Airport x = new Airport();
+        x.addPlane(29);
+        assertEquals(29, x.printPlanesArray(0));
     }
 
 }

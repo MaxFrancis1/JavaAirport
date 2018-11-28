@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="466e9499-bd5a-4954-9366-c9008b95c385" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Airport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Airport.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/AirportTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/AirportTest.java" afterDir="false" />
     </list>
@@ -19,15 +17,15 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Airport.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="331">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
               <folding>
-                <element signature="e#86#87#0" expanded="true" />
-                <element signature="e#129#130#0" expanded="true" />
+                <element signature="e#114#115#0" expanded="true" />
+                <element signature="e#157#158#0" expanded="true" />
                 <element signature="e#63#64#0" expanded="true" />
                 <element signature="e#95#96#0" expanded="true" />
-                <element signature="e#228#229#0" expanded="true" />
-                <element signature="e#265#266#0" expanded="true" />
+                <element signature="e#260#261#0" expanded="true" />
+                <element signature="e#297#298#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -36,8 +34,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tests/AirportTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="375">
+              <caret line="25" column="5" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -61,8 +59,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Airport.java" />
         <option value="$PROJECT_DIR$/tests/AirportTest.java" />
+        <option value="$PROJECT_DIR$/src/Airport.java" />
       </list>
     </option>
   </component>
@@ -108,7 +106,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543413582709" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543421862237" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -181,34 +179,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AirportTest - 2018.11.28 at 11h 59m 14s.xml">
+    <history-entry file="AirportTest - 2018.11.28 at 15h 59m 45s.xml">
       <configuration name="AirportTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AirportTest - 2018.11.28 at 11h 59m 49s.xml">
+    <history-entry file="AirportTest - 2018.11.28 at 16h 02m 20s.xml">
       <configuration name="AirportTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AirportTest - 2018.11.28 at 12h 00m 06s.xml">
+    <history-entry file="AirportTest - 2018.11.28 at 16h 03m 25s.xml">
       <configuration name="AirportTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AirportTest - 2018.11.28 at 12h 00m 23s.xml">
+    <history-entry file="AirportTest - 2018.11.28 at 16h 03m 40s.xml">
       <configuration name="AirportTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AirportTest - 2018.11.28 at 12h 00m 32s.xml">
+    <history-entry file="AirportTest - 2018.11.28 at 16h 06m 03s.xml">
       <configuration name="AirportTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AirportTest - 2018.11.28 at 12h 06m 58s.xml">
+    <history-entry file="AirportTest - 2018.11.28 at 16h 07m 15s.xml">
       <configuration name="AirportTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AirportTest - 2018.11.28 at 12h 09m 57s.xml">
+    <history-entry file="AirportTest - 2018.11.28 at 16h 07m 32s.xml">
       <configuration name="AirportTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AirportTest - 2018.11.28 at 12h 10m 15s.xml">
+    <history-entry file="AirportTest - 2018.11.28 at 16h 08m 38s.xml">
       <configuration name="AirportTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AirportTest - 2018.11.28 at 12h 10m 29s.xml">
+    <history-entry file="AirportTest - 2018.11.28 at 16h 11m 12s.xml">
       <configuration name="AirportTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AirportTest - 2018.11.28 at 12h 11m 10s.xml">
+    <history-entry file="AirportTest - 2018.11.28 at 16h 13m 58s.xml">
       <configuration name="AirportTest" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -226,13 +224,13 @@
       <window_info anchor="bottom" id="Messages" weight="0.32960895" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32960895" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49852726" visible="true" weight="0.32960895" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49779087" weight="0.39944133" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32960895" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5014728" side_tool="true" weight="0.32960895" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -247,23 +245,23 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Airport.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="331">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
           <folding>
-            <element signature="e#86#87#0" expanded="true" />
-            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#114#115#0" expanded="true" />
+            <element signature="e#157#158#0" expanded="true" />
             <element signature="e#63#64#0" expanded="true" />
             <element signature="e#95#96#0" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#265#266#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/AirportTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="375">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
