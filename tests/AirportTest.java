@@ -1,3 +1,4 @@
+import org.junit.Before;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
@@ -5,6 +6,10 @@ import static org.junit.Assert.*;
 //TESTING DOC
 
 public class AirportTest {
+
+    /*@Before public void beforeTheTests() {
+        Airport x = new Airport();
+    }*/
 
     @Test
     public void initiate() {
@@ -21,8 +26,15 @@ public class AirportTest {
     @Test
     public void pushingAPlaneToTheArray() {
         Airport x = new Airport();
-        x.addPlane(29);
+        assertEquals("Aircraft 29 has been added to the Airport", x.addPlane(29));
         assertEquals(29, x.printPlanesArray(0));
+    }
+
+    @Test
+    public void takingOffInAPlane() {
+        Airport x = new Airport();
+        x.addPlane(20);
+        assertEquals("Plane 20 has taken off!", x.takeOff(20));
     }
 
 }
