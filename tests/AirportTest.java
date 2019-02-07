@@ -1,4 +1,3 @@
-import org.junit.Before;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
@@ -6,10 +5,6 @@ import static org.junit.Assert.*;
 //TESTING DOC
 
 public class AirportTest {
-
-    /*@Before public void beforeTheTests() {
-        Airport x = new Airport();
-    }*/
 
     @Test
     public void initiate() {
@@ -35,6 +30,7 @@ public class AirportTest {
         Airport x = new Airport();
         x.addPlane(20);
         assertEquals("Plane 20 has taken off!", x.takeOff(20));
+        assertEquals(0, x.printPlanesArray(0));
     }
 
 }

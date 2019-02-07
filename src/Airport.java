@@ -2,12 +2,11 @@
 
 public class Airport {
 
+
     private int[] planes;
-    private String weather;
 
     public Airport() {
-        this.planes = new int[100];
-        this.weather = "Thunder";
+        this.planes = new int[20];
     }
 
     public String test() {
@@ -31,7 +30,6 @@ public class Airport {
     public String takeOff(int planeRegistration) {
         for(int i=0; i < this.planes.length; i++)
             if(this.planes[i] == planeRegistration) {
-                System.out.println(this.weather);
                 this.planes[i] = 0;
                 break;
             }
